@@ -1,0 +1,7 @@
+id=IOSsounds
+name=IOS Sounds
+version=v1
+versionCode=100
+author=Gabriel Howard
+description=This module will put all media sounds of IOS to /System/media
+minMagisk=1530
