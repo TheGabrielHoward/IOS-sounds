@@ -10,5 +10,5 @@ This module will put all media sounds from IOS to /system/media/audio
 - Initial Release
 
 ## Credits
-- Fleaurus for the IOS Media sounds
+- Fleaurus for some IOS sounds
 - Topjohnwun for Magisk
